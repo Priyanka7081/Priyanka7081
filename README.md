@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on **Open Source and MERN Projects**
 - 💬 Ask me about **React, JavaScript, MongoDB, Node.js, HTML, CSS**
 - 📫 How to reach me: **priyankau7081@gmail.com**
-- 🌐 Portfolio: **[Coming Soon...]**
+- 🌐 Portfolio: **https://my-portfolio-pi-two-wdhtsjj423.vercel.app/**
 
 ---
 
