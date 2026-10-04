@@ -1,128 +1,165 @@
-<!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20&height=220&section=header&text=Priyanka%20Kumari&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=MERN%20Stack%20Developer%20%7C%20CSE%20'26&descAlignY=58&descSize=20" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=140&section=header&text=%3E_%20priyanka.kumari&fontSize=48&fontColor=2dd4bf&fontAlign=50&fontAlignY=50&stroke=2dd4bf&strokeWidth=2" alt="header" />
 </p>
 
-<!-- Typing animation -->
 <p align="center">
-  <a href="https://my-portfolio-pi-two-wdhtsjj423.vercel.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Priyanka+Kumari;MERN+Stack+Developer+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;Building+Full+Stack+Web+Apps+%F0%9F%9A%80;Learning+TypeScript+%26+Next.js+%F0%9F%8C%B1;Code.+Create.+Contribute.+%E2%9C%A8" alt="Typing SVG" />
+  <a href="https://www.code-view.in/">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=2DD4BF&background=0D1117&center=true&vCenter=true&width=720&height=50&lines=Full+Stack+Developer+(MERN);React.js+%7C+Node.js+%7C+Next.js;Real-Time+Apps+with+Socket.io+%26+WebRTC;Creator+of+CodeView+%E2%80%93+live+at+code-view.in" alt="typing" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Priyanka7081&label=Profile%20Views&color=a855f7&style=for-the-badge" alt="views" />
-  <img src="https://img.shields.io/github/followers/Priyanka7081?style=for-the-badge&logo=github&color=a855f7" alt="followers" />
-</p>
-
-<p align="center">
-  <a href="https://my-portfolio-pi-two-wdhtsjj423.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-a855f7?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="mailto:priyankau7081@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/priyanka-fullstack-developer/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.code-view.in/"><img src="https://img.shields.io/badge/CodeView-LIVE-2dd4bf?style=flat-square&labelColor=0d1117&logo=vercel&logoColor=2dd4bf" /></a>
+  <a href="https://www.linkedin.com/in/priyanka-fullstack-developer"><img src="https://img.shields.io/badge/LinkedIn-connect-2dd4bf?style=flat-square&labelColor=0d1117&logo=linkedin&logoColor=2dd4bf" /></a>
+  <a href="mailto:priyankau7081@gmail.com"><img src="https://img.shields.io/badge/Email-hire_me-2dd4bf?style=flat-square&labelColor=0d1117&logo=gmail&logoColor=2dd4bf" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Priyanka7081&label=Views&color=2dd4bf&style=flat-square&labelColor=0d1117" />
 </p>
 
 ---
 
-## 👩‍💻 About Me
+### `~/about`
 
-```js
-const priyanka = {
-  name: "Priyanka Kumari",
-  role: "MERN Stack Developer",
-  education: "B.Tech CSE (Batch of 2026)",
-  currentlyBuilding: "Full Stack Web Applications",
-  currentlyLearning: ["TypeScript", "Next.js", "Deployment"],
-  lookingToCollaborateOn: ["Open Source", "MERN Projects"],
-  askMeAbout: ["React", "JavaScript", "MongoDB", "Node.js", "HTML", "CSS"],
-  funFact: "I debug with console.log and I'm not ashamed 😄",
-  motto: "Code, Create, Contribute!",
-};
+```bash
+$ whoami
+priyanka-kumari
+
+$ cat profile.json
+{
+  "role":      "Full Stack Developer (MERN)",
+  "education": "B.Tech CSE, 2026 (Greater Noida Institute of Technology)",
+  "experience": "1+ year across frontend, game dev & MERN internships",
+  "location":  "Noida, Uttar Pradesh, India",
+  "focus":     ["React.js", "Node.js", "Real-Time Apps", "Next.js"],
+  "shipped":   "CodeView, a live collaborative code editor with video calls + AI",
+  "status":    "Open to full-time roles and open-source collaboration"
+}
 ```
 
-- 🔭 Working on **Full Stack Web Applications**
-- 🌱 Learning **TypeScript, Next.js & Deployment**
-- 👯 Open to collaborate on **Open Source & MERN projects**
-- 💬 Ask me about **React, JavaScript, MongoDB, Node.js, HTML, CSS**
-- 📫 Reach me at **priyankau7081@gmail.com**
+---
+
+### `~/stack`
+
+```bash
+$ ls skills/
+```
+
+<table>
+  <tr>
+    <td><b>Languages</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=js,java,html,css&theme=dark" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap&theme=dark" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" /> &nbsp;REST APIs · JWT Auth · Socket.io
+    </td>
+  </tr>
+  <tr>
+    <td><b>Databases</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Real-Time</b></td>
+    <td>WebRTC · Socket.io · WebSockets</td>
+  </tr>
+  <tr>
+    <td><b>Tools & Deploy</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,aws&theme=dark" /> &nbsp;Render
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🛠️ Tech Stack
+### `~/projects`
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,html,css,java,git,github,vscode,postman,vercel&perline=7" alt="skills" />
-  </a>
-</p>
+```bash
+$ git log --featured
+```
 
-<p align="center"><b>Currently exploring</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nextjs,tailwind&perline=3" alt="learning" />
-</p>
+#### 🟢 CodeView: Real-Time Collaborative Code Editor
+`MERN` `Socket.io` `WebRTC` &nbsp;|&nbsp; **[Live: code-view.in](https://www.code-view.in/)**
 
----
+- Multi-user code editing in shared rooms with instant synchronization
+- Built-in WebRTC peer-to-peer video calling for pair programming and technical interviews
+- AI assistant to debug code, explain concepts and generate snippets
+- Multi-language support with syntax highlighting and room-based session sharing
 
-## 📊 GitHub Stats
+#### 🐾 Pet Adoption Website
+`React.js` `Node.js` `Express.js` `MongoDB` `Tailwind CSS`
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Priyanka7081&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanka7081&layout=compact&theme=radical&hide_border=true" alt="top langs" />
-</p>
+- Full-stack platform to browse, list and adopt pets, with search and adoption request workflows
+- JWT authentication and Google login
+- Responsive UI with REST APIs and MongoDB data models for pets, adoption status and users
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Priyanka7081&theme=radical&hide_border=true" alt="streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Priyanka7081&theme=react-dark&hide_border=true&area=true" alt="activity graph" />
+<p>
+  <a href="https://github.com/Priyanka7081?tab=repositories"><img src="https://img.shields.io/badge/see_all_repos-%E2%86%92-2dd4bf?style=flat-square&labelColor=0d1117" /></a>
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+### `~/experience`
+
+```bash
+$ history --work
+```
+
+| Period | Role | Company |
+|:--|:--|:--|
+| Sep 2025 – Jul 2026 | **Frontend Developer** | Tech5tecknology Pvt Ltd (Remote) |
+| Jun 2025 – Aug 2025 | **Software Engineer Intern** | Trayistats AI Technology Pvt Ltd |
+| Apr 2024 – Jun 2024 | **Web Development Intern** | Wayspire (Remote) |
+
+---
+
+### `~/stats`
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Priyanka7081&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7" alt="trophies" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=Priyanka7081&show_icons=true&hide_border=false&bg_color=0d1117&title_color=2dd4bf&text_color=c9d1d9&icon_color=2dd4bf&border_color=2dd4bf&count_private=true" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanka7081&layout=compact&bg_color=0d1117&title_color=2dd4bf&text_color=c9d1d9&border_color=2dd4bf" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Priyanka7081&background=0D1117&ring=2DD4BF&fire=2DD4BF&currStreakLabel=2DD4BF&currStreakNum=C9D1D9&sideNums=C9D1D9&sideLabels=2DD4BF&dates=8B949E&stroke=2DD4BF" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Priyanka7081&bg_color=0d1117&color=2dd4bf&line=2dd4bf&point=ffffff&area=true&hide_border=true" />
 </p>
 
 ---
 
-## 📌 Featured Projects
+### `~/education`
 
-<!-- Replace repo names with your own best projects -->
-<p align="center">
-  <a href="https://github.com/Priyanka7081/YOUR-REPO-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Priyanka7081&repo=YOUR-REPO-1&theme=radical&hide_border=true" />
-  </a>
-  <a href="https://github.com/Priyanka7081/YOUR-REPO-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Priyanka7081&repo=YOUR-REPO-2&theme=radical&hide_border=true" />
-  </a>
-</p>
+```bash
+B.Tech, Computer Science & Engineering   Jun 2023 – Jun 2026   Greater Noida Institute of Technology
+Diploma, Information Technology          Jun 2020 – Jun 2023   Govt Girls Polytechnic, Gorakhpur
+
+Certifications: AWS S3 Basics (Coursera) · Full Stack Development (Wayspire, 2024)
+```
 
 ---
 
-## 🎯 2026 Goals
+### `~/contact`
 
-- [x] Build and deploy MERN projects
-- [ ] Master TypeScript
-- [ ] Ship a Next.js full stack app
-- [ ] Contribute to open source
-- [ ] Land a developer role 🚀
-
----
-
-## 📫 Let's Connect
+```bash
+$ contact --open
+> email:    priyankau7081@gmail.com
+> linkedin: linkedin.com/in/priyanka-fullstack-developer
+> live app: code-view.in
+```
 
 <p align="center">
-  <a href="mailto:priyankau7081@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/priyanka-fullstack-developer/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://my-portfolio-pi-two-wdhtsjj423.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-a855f7?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=70&section=footer&text=Code.%20Create.%20Contribute.&fontSize=18&fontColor=2dd4bf&fontAlignY=50&stroke=2dd4bf&strokeWidth=1" alt="footer" />
 </p>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quote" />
-</p>
-
-<p align="center">✨ <i>"Code, Create, Contribute!"</i> ✨</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20&height=100&section=footer" width="100%" alt="footer" />
