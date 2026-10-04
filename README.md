@@ -1,165 +1,212 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=140&section=header&text=%3E_%20priyanka.kumari&fontSize=48&fontColor=2dd4bf&fontAlign=50&fontAlignY=50&stroke=2dd4bf&strokeWidth=2" alt="header" />
-</p>
+<h1 align="center">Hi 👋, I'm Priyanka Kumari</h1>
+
+<h3 align="center">Full Stack Developer | MERN Stack | Real-Time Apps Builder</h3>
 
 <p align="center">
-  <a href="https://www.code-view.in/">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=2DD4BF&background=0D1117&center=true&vCenter=true&width=720&height=50&lines=Full+Stack+Developer+(MERN);React.js+%7C+Node.js+%7C+Next.js;Real-Time+Apps+with+Socket.io+%26+WebRTC;Creator+of+CodeView+%E2%80%93+live+at+code-view.in" alt="typing" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=Priyanka7081&label=Profile%20Views&color=7aa2f7&style=flat" alt="views" />
+  <img src="https://img.shields.io/github/followers/Priyanka7081?label=Followers&style=flat&color=7aa2f7" alt="followers" />
+  <a href="https://www.code-view.in/"><img src="https://img.shields.io/badge/CodeView-Live-9ece6a?style=flat" alt="codeview" /></a>
 </p>
 
 <p align="center">
-  <a href="https://www.code-view.in/"><img src="https://img.shields.io/badge/CodeView-LIVE-2dd4bf?style=flat-square&labelColor=0d1117&logo=vercel&logoColor=2dd4bf" /></a>
-  <a href="https://www.linkedin.com/in/priyanka-fullstack-developer"><img src="https://img.shields.io/badge/LinkedIn-connect-2dd4bf?style=flat-square&labelColor=0d1117&logo=linkedin&logoColor=2dd4bf" /></a>
-  <a href="mailto:priyankau7081@gmail.com"><img src="https://img.shields.io/badge/Email-hire_me-2dd4bf?style=flat-square&labelColor=0d1117&logo=gmail&logoColor=2dd4bf" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Priyanka7081&label=Views&color=2dd4bf&style=flat-square&labelColor=0d1117" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Priyanka7081&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="trophies" />
 </p>
 
 ---
 
-### `~/about`
+## 👩‍💻 About Me
 
-```bash
-$ whoami
-priyanka-kumari
+I'm a **Full Stack Developer** and recent **B.Tech CSE (2026)** graduate who loves building responsive, API-driven web apps and real-time experiences.
 
-$ cat profile.json
-{
-  "role":      "Full Stack Developer (MERN)",
-  "education": "B.Tech CSE, 2026 (Greater Noida Institute of Technology)",
-  "experience": "1+ year across frontend, game dev & MERN internships",
-  "location":  "Noida, Uttar Pradesh, India",
-  "focus":     ["React.js", "Node.js", "Real-Time Apps", "Next.js"],
-  "shipped":   "CodeView, a live collaborative code editor with video calls + AI",
-  "status":    "Open to full-time roles and open-source collaboration"
-}
+- 🔭 Working on **full stack web applications** with the MERN stack
+- 🚀 Shipped **CodeView**, a live collaborative code editor with video calling and an AI assistant
+- 💼 **1+ year** of experience across frontend, game development and MERN internships
+- 🌱 Currently learning **TypeScript, Next.js & Deployment**
+- ⚡ Strong interest in **Socket.io, WebRTC & real-time systems**
+- 👯 Looking to collaborate on **Open Source & MERN projects**
+- 💬 Ask me about **React.js, JavaScript, Node.js, Express.js, MongoDB, HTML & CSS**
+- 📍 Based in **Noida, Uttar Pradesh, India**
+- 📫 Email: **priyankau7081@gmail.com**
+- 🌐 Portfolio: **https://my-portfolio-pi-two-wdhtsjj423.vercel.app/**
+
+---
+
+## 🧑‍💻 What I Do
+
+```
+Frontend Development    → React.js, Next.js, JavaScript (ES6+), Tailwind CSS, Bootstrap
+Backend Development     → Node.js, Express.js, RESTful APIs
+Database                → MongoDB, MySQL
+Authentication          → JWT, Google Login
+Real-Time Applications  → Socket.io, WebRTC, WebSockets
+Tools & Platforms       → Git, GitHub, Vercel, Render, Netlify, AWS S3 (Basics)
+Currently Learning      → TypeScript, Next.js, Deployment
 ```
 
 ---
 
-### `~/stack`
+## 🛠️ Tech Stack
 
-```bash
-$ ls skills/
-```
+### 💻 Languages
+<img src="https://skillicons.dev/icons?i=js,java,html,css,mysql" />
 
-<table>
-  <tr>
-    <td><b>Languages</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=js,java,html,css&theme=dark" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Frontend</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap&theme=dark" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Backend</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" /> &nbsp;REST APIs · JWT Auth · Socket.io
-    </td>
-  </tr>
-  <tr>
-    <td><b>Databases</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Real-Time</b></td>
-    <td>WebRTC · Socket.io · WebSockets</td>
-  </tr>
-  <tr>
-    <td><b>Tools & Deploy</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,aws&theme=dark" /> &nbsp;Render
-    </td>
-  </tr>
-</table>
+### 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" />
+
+### ⚙️ Backend & Database
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+
+### ☁️ Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,aws,postman,vscode" />
 
 ---
 
-### `~/projects`
+# 🚀 Featured Projects
 
-```bash
-$ git log --featured
-```
+## 💻 CodeView: Real-Time Collaborative Code Editor
 
-#### 🟢 CodeView: Real-Time Collaborative Code Editor
-`MERN` `Socket.io` `WebRTC` &nbsp;|&nbsp; **[Live: code-view.in](https://www.code-view.in/)**
+**Full Stack Project** | 🔗 **[Live at code-view.in](https://www.code-view.in/)**
 
-- Multi-user code editing in shared rooms with instant synchronization
-- Built-in WebRTC peer-to-peer video calling for pair programming and technical interviews
-- AI assistant to debug code, explain concepts and generate snippets
-- Multi-language support with syntax highlighting and room-based session sharing
+A production-deployed collaborative code editor where teams can write code together, pair-program and run technical interviews, all in one place.
 
-#### 🐾 Pet Adoption Website
-`React.js` `Node.js` `Express.js` `MongoDB` `Tailwind CSS`
+### Key Features
+- 👥 Multi-user editing in shared rooms with instant sync
+- 📹 WebRTC peer-to-peer video calling built in
+- 🤖 AI assistant to debug code, explain concepts and generate snippets
+- 🌐 Multi-language support with syntax highlighting
+- 🔗 Room-based architecture for easy session sharing
+- 📱 Responsive interface
 
-- Full-stack platform to browse, list and adopt pets, with search and adoption request workflows
-- JWT authentication and Google login
-- Responsive UI with REST APIs and MongoDB data models for pets, adoption status and users
-
-<p>
-  <a href="https://github.com/Priyanka7081?tab=repositories"><img src="https://img.shields.io/badge/see_all_repos-%E2%86%92-2dd4bf?style=flat-square&labelColor=0d1117" /></a>
-</p>
+### Technologies
+`React.js` `Node.js` `Express.js` `MongoDB` `Socket.io` `WebRTC`
 
 ---
 
-### `~/experience`
+## 🐾 Pet Adoption Website
 
-```bash
-$ history --work
-```
+**Full Stack Web Application**
+
+A platform where users can browse, list and adopt pets with search and adoption request workflows.
+
+### Key Features
+- 🔎 Pet search and browsing
+- 📝 Pet listing and adoption request workflow
+- 🔐 JWT authentication & Google login
+- 🔌 REST APIs with Node.js & Express.js
+- 🗄️ MongoDB models for pets, adoption status and users
+- 📱 Mobile-friendly responsive UI
+
+### Technologies
+`React.js` `Node.js` `Express.js` `MongoDB` `Tailwind CSS` `JWT`
+
+---
+
+# 💼 Experience
 
 | Period | Role | Company |
 |:--|:--|:--|
 | Sep 2025 – Jul 2026 | **Frontend Developer** | Tech5tecknology Pvt Ltd (Remote) |
-| Jun 2025 – Aug 2025 | **Software Engineer Intern** | Trayistats AI Technology Pvt Ltd |
-| Apr 2024 – Jun 2024 | **Web Development Intern** | Wayspire (Remote) |
+| Jun 2025 – Aug 2025 | **Software Engineer Intern** (Game Development) | Trayistats AI Technology Pvt Ltd |
+| Apr 2024 – Jun 2024 | **Web Development Intern** (MERN) | Wayspire (Remote) |
+
+**What I worked on:** responsive cross-browser UIs in React, REST API integration with state and error handling, gameplay features and debugging, and full stack MERN apps.
 
 ---
 
-### `~/stats`
+# 🎓 Education & Certifications
 
-<p align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=Priyanka7081&show_icons=true&hide_border=false&bg_color=0d1117&title_color=2dd4bf&text_color=c9d1d9&icon_color=2dd4bf&border_color=2dd4bf&count_private=true" />
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanka7081&layout=compact&bg_color=0d1117&title_color=2dd4bf&text_color=c9d1d9&border_color=2dd4bf" />
-</p>
+```
+B.Tech, Computer Science & Engineering   2023 – 2026   Greater Noida Institute of Technology
+Diploma, Information Technology          2020 – 2023   Govt Girls Polytechnic, Gorakhpur
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Priyanka7081&background=0D1117&ring=2DD4BF&fire=2DD4BF&currStreakLabel=2DD4BF&currStreakNum=C9D1D9&sideNums=C9D1D9&sideLabels=2DD4BF&dates=8B949E&stroke=2DD4BF" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Priyanka7081&bg_color=0d1117&color=2dd4bf&line=2dd4bf&point=ffffff&area=true&hide_border=true" />
-</p>
-
----
-
-### `~/education`
-
-```bash
-B.Tech, Computer Science & Engineering   Jun 2023 – Jun 2026   Greater Noida Institute of Technology
-Diploma, Information Technology          Jun 2020 – Jun 2023   Govt Girls Polytechnic, Gorakhpur
-
-Certifications: AWS S3 Basics (Coursera) · Full Stack Development (Wayspire, 2024)
+Certifications → AWS S3 Basics (Coursera) · Full Stack Development (Wayspire, 2024)
 ```
 
 ---
 
-### `~/contact`
+# 🧠 Currently Learning
 
-```bash
-$ contact --open
-> email:    priyankau7081@gmail.com
-> linkedin: linkedin.com/in/priyanka-fullstack-developer
-> live app: code-view.in
+## 📘 TypeScript + Next.js + Deployment
+
+```
+JavaScript (ES6+)
+   ↓
+TypeScript
+   ↓
+Next.js (SSR, routing, API routes)
+   ↓
+Full Stack Next.js Apps
+   ↓
+CI/CD & Deployment (Vercel, Render)
+   ↓
+Production-Ready Applications
 ```
 
+---
+
+# 🌐 Connect With Me
+
+<a href="https://www.linkedin.com/in/priyanka-fullstack-developer"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://github.com/Priyanka7081"><img src="https://skillicons.dev/icons?i=github" /></a>
+<a href="mailto:priyankau7081@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+<a href="https://www.code-view.in/"><img src="https://skillicons.dev/icons?i=vercel" /></a>
+
+---
+
+# 📊 GitHub Statistics
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=70&section=footer&text=Code.%20Create.%20Contribute.&fontSize=18&fontColor=2dd4bf&fontAlignY=50&stroke=2dd4bf&strokeWidth=1" alt="footer" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Priyanka7081&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanka7081&theme=tokyonight&hide_border=true" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanka7081&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 📈 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Priyanka7081&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Priyanka7081&theme=github_dark" />
+</p>
+
+---
+
+# 🐍 GitHub Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Priyanka7081/Priyanka7081/output/github-contribution-grid-snake-dark.svg" alt="snake" />
+</p>
+
+---
+
+# 🎯 2026 Goals
+
+```
+☑ Graduate B.Tech CSE and ship real projects
+☑ Deploy CodeView live
+☐ Master TypeScript
+☐ Build and deploy a full stack Next.js app
+☐ Contribute to Open Source
+☐ Grow CodeView with more real-time features
+☐ Land a Full Stack Developer role 🚀
+```
+
+---
+
+# 💡 Developer Philosophy
+
+*"Code, Create, Contribute.
+Build with purpose. Keep learning. Ship things people use."*
+
+---
+
+⭐ If you like my projects, consider giving them a star!
+
+**Thanks for visiting my profile! 🚀**
